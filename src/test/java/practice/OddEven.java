@@ -1,4 +1,4 @@
-package practice;
+//package practice;
 
 public class OddEven {
 
@@ -10,7 +10,7 @@ public class OddEven {
 			System.out.println("Even Number" +i);
 			
 		}else {
-			System.out.println("Odd Number" +i);
+			//System.out.println("Odd Number" +i);
 		}
 		
 
